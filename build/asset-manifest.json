@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fish-store-app/static/css/main.702f4f06.chunk.css",
+    "main.js": "/fish-store-app/static/js/main.63c62552.chunk.js",
+    "main.js.map": "/fish-store-app/static/js/main.63c62552.chunk.js.map",
+    "runtime-main.js": "/fish-store-app/static/js/runtime-main.a8cadfdc.js",
+    "runtime-main.js.map": "/fish-store-app/static/js/runtime-main.a8cadfdc.js.map",
+    "static/js/2.c9608db4.chunk.js": "/fish-store-app/static/js/2.c9608db4.chunk.js",
+    "static/js/2.c9608db4.chunk.js.map": "/fish-store-app/static/js/2.c9608db4.chunk.js.map",
+    "index.html": "/fish-store-app/index.html",
+    "precache-manifest.c09e0629dbe3f681ebf60e8baacf735e.js": "/fish-store-app/precache-manifest.c09e0629dbe3f681ebf60e8baacf735e.js",
+    "service-worker.js": "/fish-store-app/service-worker.js",
+    "static/css/main.702f4f06.chunk.css.map": "/fish-store-app/static/css/main.702f4f06.chunk.css.map",
+    "static/js/2.c9608db4.chunk.js.LICENSE.txt": "/fish-store-app/static/js/2.c9608db4.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/fish-store-app/static/media/haymaker-webfont.e9535f20.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8cadfdc.js",
+    "static/js/2.c9608db4.chunk.js",
+    "static/css/main.702f4f06.chunk.css",
+    "static/js/main.63c62552.chunk.js"
+  ]
+}
