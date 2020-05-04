@@ -16,6 +16,7 @@ class StorePicker extends React.Component {
         const storeId = this.storeInput.value;
         //Grab the text from thhe box and redirect it to /store/:storeId
         this.props.history.push(`/store/${storeId}`);
+
     }
 
     render() {
