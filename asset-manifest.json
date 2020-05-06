@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/fish-store-app/static/css/main.702f4f06.chunk.css",
-    "main.js": "/fish-store-app/static/js/main.674d6878.chunk.js",
-    "main.js.map": "/fish-store-app/static/js/main.674d6878.chunk.js.map",
+    "main.js": "/fish-store-app/static/js/main.a49f4745.chunk.js",
+    "main.js.map": "/fish-store-app/static/js/main.a49f4745.chunk.js.map",
     "runtime-main.js": "/fish-store-app/static/js/runtime-main.a8cadfdc.js",
     "runtime-main.js.map": "/fish-store-app/static/js/runtime-main.a8cadfdc.js.map",
     "static/js/2.c9608db4.chunk.js": "/fish-store-app/static/js/2.c9608db4.chunk.js",
     "static/js/2.c9608db4.chunk.js.map": "/fish-store-app/static/js/2.c9608db4.chunk.js.map",
     "index.html": "/fish-store-app/index.html",
-    "precache-manifest.87dbfe5ac3a214c2602bd6de3da9b9cd.js": "/fish-store-app/precache-manifest.87dbfe5ac3a214c2602bd6de3da9b9cd.js",
+    "precache-manifest.a8bde690b75c332118ee245cad60c05c.js": "/fish-store-app/precache-manifest.a8bde690b75c332118ee245cad60c05c.js",
     "service-worker.js": "/fish-store-app/service-worker.js",
     "static/css/main.702f4f06.chunk.css.map": "/fish-store-app/static/css/main.702f4f06.chunk.css.map",
     "static/js/2.c9608db4.chunk.js.LICENSE.txt": "/fish-store-app/static/js/2.c9608db4.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.a8cadfdc.js",
     "static/js/2.c9608db4.chunk.js",
     "static/css/main.702f4f06.chunk.css",
-    "static/js/main.674d6878.chunk.js"
+    "static/js/main.a49f4745.chunk.js"
   ]
 }

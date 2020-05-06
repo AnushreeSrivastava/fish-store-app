@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "12cf7535fd8dc34534125f5eb1d3822b",
+    "revision": "d7e336d7f4415c1d4a978cc5324aca7c",
     "url": "/fish-store-app/index.html"
   },
   {
-    "revision": "37bff323064e29aed25e",
+    "revision": "24b5d2659641011a45e2",
     "url": "/fish-store-app/static/css/main.702f4f06.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fish-store-app/static/js/2.c9608db4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "37bff323064e29aed25e",
-    "url": "/fish-store-app/static/js/main.674d6878.chunk.js"
+    "revision": "24b5d2659641011a45e2",
+    "url": "/fish-store-app/static/js/main.a49f4745.chunk.js"
   },
   {
     "revision": "ec749bc80f7b248de13a",
